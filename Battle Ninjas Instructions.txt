@@ -1,0 +1,18 @@
+﻿Battle Ninjas Instructions:
+
+
+* You are a ninja trying to protect your village wall from waves of enemy ninjas.
+
+* If your village wall is destroyed, it’s game over.
+
+* Use the W/A/S/D keys to move in any direction, and press G to throw a shuriken.
+
+* Avoid enemy shurikens while defeating enemies. If your health bar runs out, it’s game over.
+
+* If you defeat all of the enemies in a wave, the boss battle for that wave will begin.
+
+* In a boss battle, use the W/D keys to move side-to-side, and press the SPACEBAR to jump. Press G to throw a shuriken.
+
+* Once a boss is defeated, the next wave will start.
+
+* If you complete all 4 waves and bosses without your health bar running out or your wall breaking, you win!
